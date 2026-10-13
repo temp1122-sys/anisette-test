@@ -5,8 +5,12 @@
       "address": "https://ani.sidestore.io"
     },
     {
-      "name": "DEBUG",
+      "name": "DEBUG1",
       "address": "https://ani.jkcoxson.com"
+    },
+    {
+      "name": "DEBUG2",
+      "address": "https://ani.stikstore.app"
     },
     {
       "name": "SideStore (.app)",
